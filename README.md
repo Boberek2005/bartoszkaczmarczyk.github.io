@@ -1,2 +1,2 @@
-# bartoszkaczmarczyk.github.io
+# BartoszKaczmarczyk.github.io
 Personal portfolio
